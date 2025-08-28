@@ -22,4 +22,6 @@ Its include all git related commands
 -> git checkout -b branch_name
 -> git diff HEAD file_name
 
+-> branch code chenges
+
 
